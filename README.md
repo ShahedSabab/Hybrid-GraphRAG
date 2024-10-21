@@ -16,4 +16,6 @@ This repository contains an implementation of a Hybrid Retrieval-Augmented Gener
 ![Alt text](figure/GraphRAG.png)
 
 ## User Interface
-![Alt text](figure/demo.gif)
+<div style="text-align: center;">
+    <img src="figure/Demo.gif" alt="Hybrid RAG Diagram" width="1200"/>
+</div>
