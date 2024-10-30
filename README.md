@@ -15,7 +15,7 @@ This repository contains an implementation of a Hybrid Retrieval-Augmented Gener
 
 ![Alt text](figure/GraphRAG.png)
 
-## Knowedlge Graph - Neo4j
+## Knowledge Graph - Neo4j
 
 <div style="text-align: center;">
     <img src="figure/graph_representation.png" alt="Hybrid RAG Diagram" width="1200"/>
